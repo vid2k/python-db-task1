@@ -15,12 +15,12 @@ for file in file_list:
     file_name_with_ext = file[len(workbook_dir_name)+1:]
     file_name = file_name_with_ext[:-5]
     dir_name = f'{workbook_dir_name}/{file[len(workbook_dir_name)+1:-5]}'
-    print(dir_name)
-    print(file)
-    print(path_to_workbook_dir)
-    # print(f"{dir_name}.xlsx")
-    print(file_name_with_ext)
-    print(file_name)
+    # print(dir_name)
+    # print(file)
+    # print(path_to_workbook_dir)
+    # # print(f"{dir_name}.xlsx")
+    # print(file_name_with_ext)
+    # print(file_name)
     # print(file[len(workbook_dir_name)+1:-5])
     wb = load_workbook(f"./{dir_name}.xlsx")
     all_sheets = wb.sheetnames
@@ -31,8 +31,9 @@ for file in file_list:
     for sheet in all_sheets:
         i += 1
         # dynamically create sheets with dynamic variable names
-        varname = "dataset" + str(i)
-        print(f"saving {sheet} sheet as '{varname}'.csv")
+        # varname = "dataset" + str(i)
+        varname = f"{file_name}_{sheet}"
+        print(f"saving {sheet} sheet as '{file_name}_{sheet}'.csv")
         columns = next(wb[sheet].values)[0:]
         globals()[varname] = pd.DataFrame(wb[sheet].values, columns=columns) #df
         # now to remove first line of indexes:
