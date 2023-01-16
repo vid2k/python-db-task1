@@ -12,9 +12,6 @@ for directory in list_of_dirs:
         # print(file)
         file_name_seprated = (str(file)).split("\\")
         varname = file_name_seprated[2][:-4]
-        # print(varname)
-        # i += 1
-        # varname = f"df_{i}"
         globals()[varname] = pd.read_csv(file)
         print(varname)
         print(globals()[varname])
