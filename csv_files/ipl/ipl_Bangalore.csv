@@ -1,67 +1,67 @@
-id,Season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match
-5,IPL-2017,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,15,0,KM Jadhav
-12,IPL-2017,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,4,KA Pollard
-17,IPL-2017,Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rising Pune Supergiant,27,0,BA Stokes
-30,IPL-2017,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,7,AJ Tye
-42,IPL-2017,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kings XI Punjab,19,0,Sandeep Sharma
-45,IPL-2017,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,SP Narine
-57,IPL-2017,Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders,0,7,NM Coulter-Nile
-58,IPL-2017,Bangalore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,KV Sharma
-60,IPL-2008,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,140,0,BB McCullum
-70,IPL-2008,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,SR Watson
-74,IPL-2008,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Chennai Super Kings,13,0,MS Dhoni
-84,IPL-2008,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,S Sreesanth
-90,IPL-2008,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,9,CRD Fernando
-104,IPL-2008,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,5,SP Goswami
-111,IPL-2008,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,0,Royal Challengers Bangalore,3,0,P Kumar
-181,IPL-2010,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,Royal Challengers Bangalore,0,8,JH Kallis
-184,IPL-2010,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,10,JH Kallis
-192,IPL-2010,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,36,0,RV Uthappa
-197,IPL-2010,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Daredevils,17,0,KM Jadhav
-214,IPL-2010,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers,0,7,TL Suman
-217,IPL-2010,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,R Vinay Kumar
-226,IPL-2010,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,57,0,R McLaren
-242,IPL-2011,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,9,SR Tendulkar
-268,IPL-2011,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,Royal Challengers Bangalore,26,0,V Kohli
-280,IPL-2011,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Royal Challengers Bangalore,85,0,CH Gayle
-283,IPL-2011,Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,0,Royal Challengers Bangalore,0,9,CH Gayle
-291,IPL-2011,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,1,Royal Challengers Bangalore,0,4,CH Gayle
-302,IPL-2011,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,CH Gayle
-312,IPL-2012,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Royal Challengers Bangalore,20,0,AB de Villiers
-317,IPL-2012,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,42,0,L Balaji
-326,IPL-2012,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Rajasthan Royals,59,0,AM Rahane
-329,IPL-2012,Bangalore,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,0,Royal Challengers Bangalore,0,6,CH Gayle
-350,IPL-2012,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,4,Azhar Mahmood
-356,IPL-2012,Bangalore,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,AB de Villiers
-367,IPL-2012,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,AT Rayudu
-379,IPL-2012,Bangalore,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings,38,0,MS Dhoni
-383,IPL-2013,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,2,0,CH Gayle
-392,IPL-2013,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,8,CH Gayle
-401,IPL-2013,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,0,0,V Kohli
-407,IPL-2013,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,R Vinay Kumar
-411,IPL-2013,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,Royal Challengers Bangalore,130,0,CH Gayle
-429,IPL-2013,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,7,AC Gilchrist
-432,IPL-2013,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Royal Challengers Bangalore,0,7,V Kohli
-452,IPL-2013,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,24,0,V Kohli
-481,IPL-2014,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,AB de Villiers
-488,IPL-2014,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kings XI Punjab,32,0,Sandeep Sharma
-492,IPL-2014,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Rajasthan Royals,0,5,JP Faulkner
-495,IPL-2014,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Royal Challengers Bangalore,16,0,Yuvraj Singh
-510,IPL-2014,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,8,MS Dhoni
-517,IPL-2014,Bangalore,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,3,MK Pandey
-525,IPL-2015,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,8,DA Warner
-534,IPL-2015,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,18,0,Harbhajan Singh
-538,IPL-2015,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,27,0,SK Raina
-546,IPL-2015,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,0,,0,0,
-550,IPL-2015,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,Mandeep Singh
-557,IPL-2015,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Royal Challengers Bangalore,138,0,CH Gayle
-571,IPL-2015,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,,0,0,
-580,IPL-2016,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,45,0,AB de Villiers
-587,IPL-2016,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,7,Q de Kock
-606,IPL-2016,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,5,AD Russell
-611,IPL-2016,Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,7,V Kohli
-617,IPL-2016,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,6,KH Pandya
-620,IPL-2016,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,0,Royal Challengers Bangalore,144,0,AB de Villiers
-626,IPL-2016,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,1,Royal Challengers Bangalore,82,0,V Kohli
-633,IPL-2016,Bangalore,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,4,AB de Villiers
-636,IPL-2016,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,8,0,BCJ Cutting
+id,Season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,win_by_runs,win_by_wickets,player_of_match,winner
+5,IPL-2017,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,0,15,0,KM Jadhav,Royal Challengers Bangalore
+12,IPL-2017,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,0,4,KA Pollard,Mumbai Indians
+17,IPL-2017,Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,27,0,BA Stokes,Rising Pune Supergiant
+30,IPL-2017,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,0,0,7,AJ Tye,Gujarat Lions
+42,IPL-2017,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,19,0,Sandeep Sharma,Kings XI Punjab
+45,IPL-2017,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,0,6,SP Narine,Kolkata Knight Riders
+57,IPL-2017,Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,1,0,7,NM Coulter-Nile,Kolkata Knight Riders
+58,IPL-2017,Bangalore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,0,6,KV Sharma,Mumbai Indians
+60,IPL-2008,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,140,0,BB McCullum,Kolkata Knight Riders
+70,IPL-2008,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,0,7,SR Watson,Rajasthan Royals
+74,IPL-2008,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,13,0,MS Dhoni,Chennai Super Kings
+84,IPL-2008,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,6,S Sreesanth,Kings XI Punjab
+90,IPL-2008,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,0,9,CRD Fernando,Mumbai Indians
+104,IPL-2008,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,0,5,SP Goswami,Delhi Daredevils
+111,IPL-2008,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,0,3,0,P Kumar,Royal Challengers Bangalore
+181,IPL-2010,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,0,8,JH Kallis,Royal Challengers Bangalore
+184,IPL-2010,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,10,JH Kallis,Royal Challengers Bangalore
+192,IPL-2010,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,36,0,RV Uthappa,Royal Challengers Bangalore
+197,IPL-2010,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,17,0,KM Jadhav,Delhi Daredevils
+214,IPL-2010,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,0,0,7,TL Suman,Deccan Chargers
+217,IPL-2010,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,7,R Vinay Kumar,Royal Challengers Bangalore
+226,IPL-2010,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,57,0,R McLaren,Mumbai Indians
+242,IPL-2011,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,0,9,SR Tendulkar,Mumbai Indians
+268,IPL-2011,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,26,0,V Kohli,Royal Challengers Bangalore
+280,IPL-2011,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,85,0,CH Gayle,Royal Challengers Bangalore
+283,IPL-2011,Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,0,0,9,CH Gayle,Royal Challengers Bangalore
+291,IPL-2011,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,1,0,4,CH Gayle,Royal Challengers Bangalore
+302,IPL-2011,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,8,CH Gayle,Royal Challengers Bangalore
+312,IPL-2012,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,20,0,AB de Villiers,Royal Challengers Bangalore
+317,IPL-2012,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,42,0,L Balaji,Kolkata Knight Riders
+326,IPL-2012,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,59,0,AM Rahane,Rajasthan Royals
+329,IPL-2012,Bangalore,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,0,0,6,CH Gayle,Royal Challengers Bangalore
+350,IPL-2012,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,4,Azhar Mahmood,Kings XI Punjab
+356,IPL-2012,Bangalore,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,5,AB de Villiers,Royal Challengers Bangalore
+367,IPL-2012,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,0,5,AT Rayudu,Mumbai Indians
+379,IPL-2012,Bangalore,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,38,0,MS Dhoni,Chennai Super Kings
+383,IPL-2013,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,2,0,CH Gayle,Royal Challengers Bangalore
+392,IPL-2013,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,8,CH Gayle,Royal Challengers Bangalore
+401,IPL-2013,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,tie,0,0,0,V Kohli,Royal Challengers Bangalore
+407,IPL-2013,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,7,R Vinay Kumar,Royal Challengers Bangalore
+411,IPL-2013,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,130,0,CH Gayle,Royal Challengers Bangalore
+429,IPL-2013,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,7,AC Gilchrist,Kings XI Punjab
+432,IPL-2013,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,0,7,V Kohli,Royal Challengers Bangalore
+452,IPL-2013,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,24,0,V Kohli,Royal Challengers Bangalore
+481,IPL-2014,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,4,AB de Villiers,Royal Challengers Bangalore
+488,IPL-2014,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,32,0,Sandeep Sharma,Kings XI Punjab
+492,IPL-2014,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,0,5,JP Faulkner,Rajasthan Royals
+495,IPL-2014,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,16,0,Yuvraj Singh,Royal Challengers Bangalore
+510,IPL-2014,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,0,8,MS Dhoni,Chennai Super Kings
+517,IPL-2014,Bangalore,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,0,3,MK Pandey,Kolkata Knight Riders
+525,IPL-2015,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,0,8,DA Warner,Sunrisers Hyderabad
+534,IPL-2015,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,18,0,Harbhajan Singh,Mumbai Indians
+538,IPL-2015,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,27,0,SK Raina,Chennai Super Kings
+546,IPL-2015,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,no result,0,0,0,,
+550,IPL-2015,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,7,Mandeep Singh,Royal Challengers Bangalore
+557,IPL-2015,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,138,0,CH Gayle,Royal Challengers Bangalore
+571,IPL-2015,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,no result,0,0,0,,
+580,IPL-2016,Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,45,0,AB de Villiers,Royal Challengers Bangalore
+587,IPL-2016,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,0,7,Q de Kock,Delhi Daredevils
+606,IPL-2016,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,0,5,AD Russell,Kolkata Knight Riders
+611,IPL-2016,Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,7,V Kohli,Royal Challengers Bangalore
+617,IPL-2016,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,0,6,KH Pandya,Mumbai Indians
+620,IPL-2016,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,0,144,0,AB de Villiers,Royal Challengers Bangalore
+626,IPL-2016,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,1,82,0,V Kohli,Royal Challengers Bangalore
+633,IPL-2016,Bangalore,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,4,AB de Villiers,Royal Challengers Bangalore
+636,IPL-2016,Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,normal,0,8,0,BCJ Cutting,Sunrisers Hyderabad

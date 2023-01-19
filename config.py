@@ -6,8 +6,13 @@ from pymongo import MongoClient
 load_dotenv(find_dotenv())
 
 password = os.environ.get("MONGODB_PWD")
-connection_string = f"mongodb+srv://vidhi_kumar:" + urllib.parse.quote_plus(password) + f"@task.93orq43.mongodb.net/?retryWrites=true&w=majority"
+# connection_string = f"mongodb+srv://vidhi_kumar:" + urllib.parse.quote_plus(password) + f"@task.93orq43.mongodb.net/?retryWrites=true&w=majority"
+connection_string = f"mongodb://localhost:27017"
 client = MongoClient(connection_string)
 
+# print(client)
 # dbs = client.list_database_names()
 # print(dbs)
+# # for name in client.list_database_names():
+#     print(name)
+

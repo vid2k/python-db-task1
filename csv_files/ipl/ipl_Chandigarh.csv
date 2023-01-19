@@ -1,47 +1,47 @@
-id,Season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match
-32,IPL-2017,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,26,0,Rashid Khan
-35,IPL-2017,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,10,Sandeep Sharma
-46,IPL-2017,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,6,DR Smith
-48,IPL-2017,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kings XI Punjab,14,0,MM Sharma
-61,IPL-2008,Chandigarh,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings,33,0,MEK Hussey
-69,IPL-2008,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab,66,0,KC Sangakkara
-73,IPL-2008,Chandigarh,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,0,Kings XI Punjab,0,4,SM Katich
-81,IPL-2008,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kings XI Punjab,9,0,IK Pathan
-94,IPL-2008,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,Kings XI Punjab,0,9,SE Marsh
-97,IPL-2008,,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,41,0,SE Marsh
-108,IPL-2008,Chandigarh,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,SE Marsh
-177,IPL-2010,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,5,G Gambhir
-193,IPL-2010,Chandigarh,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,Rajasthan Royals,31,0,AC Voges
-196,IPL-2010,Chandigarh,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,39,0,MK Tiwary
-205,IPL-2010,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,Royal Challengers Bangalore,0,6,KP Pietersen
-215,IPL-2010,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,Kings XI Punjab,0,6,KC Sangakkara
-243,IPL-2011,Chandigarh,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,PC Valthaty
-256,IPL-2011,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,48,0,SE Marsh
-284,IPL-2011,Chandigarh,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,0,Pune Warriors,0,5,R Sharma
-287,IPL-2011,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab,76,0,BA Bhatt
-321,IPL-2012,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,7,AD Mascarenhas
-330,IPL-2012,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kolkata Knight Riders,0,8,G Gambhir
-333,IPL-2012,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,5,CH Gayle
-340,IPL-2012,Chandigarh,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,0,Mumbai Indians,0,4,AT Rayudu
-354,IPL-2012,Chandigarh,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,0,Rajasthan Royals,43,0,SR Watson
-366,IPL-2012,Chandigarh,Deccan Chargers,Kings XI Punjab,Deccan Chargers,bat,normal,0,Kings XI Punjab,0,4,DJ Hussey
-391,IPL-2013,Chandigarh,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,10,MEK Hussey
-400,IPL-2013,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kings XI Punjab,4,0,MS Gony
-409,IPL-2013,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,7,DA Miller
-436,IPL-2013,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,8,KK Cooper
-440,IPL-2013,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,30,0,PA Patel
-448,IPL-2013,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,6,DA Miller
-505,IPL-2014,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,7,LMP Simmons
-509,IPL-2014,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab,16,0,SE Marsh
-512,IPL-2014,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,7,M Vohra
-544,IPL-2015,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad,20,0,TA Boult
-552,IPL-2015,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,Mumbai Indians,23,0,LMP Simmons
-566,IPL-2015,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kings XI Punjab,22,0,AR Patel
-569,IPL-2015,Chandigarh,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,0,Chennai Super Kings,0,7,P Negi
-579,IPL-2016,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions,0,5,AJ Finch
-586,IPL-2016,Chandigarh,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,bat,normal,0,Kings XI Punjab,0,6,M Vohra
-589,IPL-2016,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,0,6,RV Uthappa
-597,IPL-2016,Chandigarh,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Mumbai Indians,25,0,PA Patel
-612,IPL-2016,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kings XI Punjab,9,0,MP Stoinis
-615,IPL-2016,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Royal Challengers Bangalore,1,0,SR Watson
-622,IPL-2016,Chandigarh,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,0,Sunrisers Hyderabad,0,7,HM Amla
+id,Season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,win_by_runs,win_by_wickets,player_of_match,winner
+32,IPL-2017,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,26,0,Rashid Khan,Sunrisers Hyderabad
+35,IPL-2017,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,10,Sandeep Sharma,Kings XI Punjab
+46,IPL-2017,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,0,0,6,DR Smith,Gujarat Lions
+48,IPL-2017,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,14,0,MM Sharma,Kings XI Punjab
+61,IPL-2008,Chandigarh,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,33,0,MEK Hussey,Chennai Super Kings
+69,IPL-2008,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,66,0,KC Sangakkara,Kings XI Punjab
+73,IPL-2008,Chandigarh,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,0,0,4,SM Katich,Kings XI Punjab
+81,IPL-2008,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,9,0,IK Pathan,Kings XI Punjab
+94,IPL-2008,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,0,9,SE Marsh,Kings XI Punjab
+97,IPL-2008,,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,41,0,SE Marsh,Kings XI Punjab
+108,IPL-2008,Chandigarh,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,6,SE Marsh,Kings XI Punjab
+177,IPL-2010,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,0,5,G Gambhir,Delhi Daredevils
+193,IPL-2010,Chandigarh,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,31,0,AC Voges,Rajasthan Royals
+196,IPL-2010,Chandigarh,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,0,39,0,MK Tiwary,Kolkata Knight Riders
+205,IPL-2010,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,0,6,KP Pietersen,Royal Challengers Bangalore
+215,IPL-2010,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,0,6,KC Sangakkara,Kings XI Punjab
+243,IPL-2011,Chandigarh,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,6,PC Valthaty,Kings XI Punjab
+256,IPL-2011,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,48,0,SE Marsh,Kings XI Punjab
+284,IPL-2011,Chandigarh,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,0,0,5,R Sharma,Pune Warriors
+287,IPL-2011,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,76,0,BA Bhatt,Kings XI Punjab
+321,IPL-2012,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,7,AD Mascarenhas,Kings XI Punjab
+330,IPL-2012,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,0,8,G Gambhir,Kolkata Knight Riders
+333,IPL-2012,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,5,CH Gayle,Royal Challengers Bangalore
+340,IPL-2012,Chandigarh,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,0,0,4,AT Rayudu,Mumbai Indians
+354,IPL-2012,Chandigarh,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,0,43,0,SR Watson,Rajasthan Royals
+366,IPL-2012,Chandigarh,Deccan Chargers,Kings XI Punjab,Deccan Chargers,bat,normal,0,0,4,DJ Hussey,Kings XI Punjab
+391,IPL-2013,Chandigarh,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,0,10,MEK Hussey,Chennai Super Kings
+400,IPL-2013,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,4,0,MS Gony,Kings XI Punjab
+409,IPL-2013,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,7,DA Miller,Kings XI Punjab
+436,IPL-2013,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,0,8,KK Cooper,Rajasthan Royals
+440,IPL-2013,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,30,0,PA Patel,Sunrisers Hyderabad
+448,IPL-2013,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,6,DA Miller,Kings XI Punjab
+505,IPL-2014,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,0,7,LMP Simmons,Mumbai Indians
+509,IPL-2014,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,16,0,SE Marsh,Kings XI Punjab
+512,IPL-2014,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,0,7,M Vohra,Kings XI Punjab
+544,IPL-2015,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,20,0,TA Boult,Sunrisers Hyderabad
+552,IPL-2015,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,23,0,LMP Simmons,Mumbai Indians
+566,IPL-2015,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,22,0,AR Patel,Kings XI Punjab
+569,IPL-2015,Chandigarh,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,0,0,7,P Negi,Chennai Super Kings
+579,IPL-2016,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,0,0,5,AJ Finch,Gujarat Lions
+586,IPL-2016,Chandigarh,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,bat,normal,0,0,6,M Vohra,Kings XI Punjab
+589,IPL-2016,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,0,6,RV Uthappa,Kolkata Knight Riders
+597,IPL-2016,Chandigarh,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,25,0,PA Patel,Mumbai Indians
+612,IPL-2016,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,9,0,MP Stoinis,Kings XI Punjab
+615,IPL-2016,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,1,0,SR Watson,Royal Challengers Bangalore
+622,IPL-2016,Chandigarh,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,normal,0,0,7,HM Amla,Sunrisers Hyderabad

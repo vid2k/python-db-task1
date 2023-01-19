@@ -1,13 +1,13 @@
-id,Season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match
-180,IPL-2010,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils,0,6,V Sehwag
-187,IPL-2010,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals,34,0,AA Jhunjhunwala
-195,IPL-2010,Ahmedabad,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,0,Rajasthan Royals,0,8,YK Pathan
-198,IPL-2010,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals,17,0,NV Ojha
-482,IPL-2014,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals,10,0,PV Tambe
-487,IPL-2014,Ahmedabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,Sunrisers Hyderabad,32,0,B Kumar
-498,IPL-2014,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,Rajasthan Royals,62,0,AM Rahane
-501,IPL-2014,Ahmedabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Mumbai Indians,25,0,MEK Hussey
-526,IPL-2015,Ahmedabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals,0,7,SPD Smith
-533,IPL-2015,Ahmedabad,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,8,AM Rahane
-536,IPL-2015,Ahmedabad,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,tie,0,Kings XI Punjab,0,0,SE Marsh
-540,IPL-2015,Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,0,9,MA Starc
+id,Season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,win_by_runs,win_by_wickets,player_of_match,,winner
+180,IPL-2010,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,0,6,V Sehwag,,Delhi Daredevils
+187,IPL-2010,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,34,0,AA Jhunjhunwala,,Rajasthan Royals
+195,IPL-2010,Ahmedabad,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,0,0,8,YK Pathan,,Rajasthan Royals
+198,IPL-2010,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,17,0,NV Ojha,,Rajasthan Royals
+482,IPL-2014,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,10,0,PV Tambe,,Rajasthan Royals
+487,IPL-2014,Ahmedabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,normal,0,32,0,B Kumar,,Sunrisers Hyderabad
+498,IPL-2014,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,62,0,AM Rahane,,Rajasthan Royals
+501,IPL-2014,Ahmedabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,25,0,MEK Hussey,,Mumbai Indians
+526,IPL-2015,Ahmedabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,0,7,SPD Smith,,Rajasthan Royals
+533,IPL-2015,Ahmedabad,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,0,8,AM Rahane,,Rajasthan Royals
+536,IPL-2015,Ahmedabad,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,tie,0,0,0,SE Marsh,,Kings XI Punjab
+540,IPL-2015,Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,0,9,MA Starc,,Royal Challengers Bangalore
