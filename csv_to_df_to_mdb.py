@@ -29,14 +29,10 @@ for directory in list_of_dirs:
         file_name_seprated = (str(file)).split("\\")
         varname = file_name_seprated[2][:-4]
         globals()[varname] = pd.read_csv(file)
-        # print(varname)
-        # print(globals()[varname])
         dataframes_and_name.append([globals()[varname], varname])
     for df, df_name in dataframes_and_name:
         data = df.to_dict(orient="records")
         # database_name.some_collection.drop()
         db[df_name].insert_many(data)
-        db.df_name
-        # db.data.createIndex()
-#     to ensure unique entries
+print("Successfully added data to database")
 
